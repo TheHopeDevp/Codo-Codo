@@ -1,0 +1,38 @@
+body{
+
+    margin: 0%;
+}
+header{
+    background-color: blue;
+    padding: 5%;
+    margin: 0%;
+}
+nav{
+    background-color: white;
+    padding: 4%;
+    margin: 0%;
+}
+ol{
+    list-style-type: none;
+    text-align: center;
+}
+li{
+    background-color: aquamarine;
+    border: black 1px solid;
+    display: inline;
+    margin-right: 15px;
+}
+a:hover{
+    color:black;
+
+}
+article{
+    background-color: greenyellow;
+    padding: 50%;
+    margin: 0%;
+}
+footer{
+    background-color: orange;
+    padding: 15%;
+    margin: 0%;
+}
